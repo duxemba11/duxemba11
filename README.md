@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @duxemba11 — Derrick Okoth
+# Hi there! 👋 I'm @derricknyamai11 — Derrick Okoth
 
 ## 👀 About Me
 
