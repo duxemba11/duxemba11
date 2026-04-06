@@ -1,24 +1,42 @@
-# Hi there! 👋 I'm @duxemba11
+# Hi there! 👋 I'm @duxemba11 — Derrick Okoth
 
 ## 👀 About Me
-I'm a blockchain enthusiast with a passion for decentralized finance (DeFi) and smart contract development. I love building and experimenting with Web3 technologies to create innovative solutions. Currently focused on flash loans, Ethereum development, and dApps.
+
+Full-stack developer and entrepreneur from **Nairobi, Kenya**, building inclusive digital platforms that serve diverse communities across Africa and beyond. Founder of **NyamaiTech** with a philosophy of radical inclusion — *"the cow is big and everyone eats."*
+
+## 🚀 What I'm Building
+
+### 🏪 [NyamaiTechHub Marketplace](https://github.com/duxemba11/NyamaiTechHub-Marketplace)
+A full-stack freelance marketplace connecting global talent with opportunities. Built with React 19, Node.js/Express, SQLite, and Socket.IO — with multi-currency payment support including M-Pesa, Stripe, and PayPal.
+
+### 🛒 Sokoni ERP
+A comprehensive ERP system built for African SMEs, enabling inventory, sales, and operations management. JavaScript-based with a focus on accessibility and real-world usability.
+
+### 💊 Careloop
+A hyperlocal health resource platform featuring **MamaAI** — an AI assistant for maternal and community health. Bridging the healthcare access gap in underserved communities.
+
+### 🚚 Sambua App (SambuaGo / Njenje)
+A food delivery marketplace targeting Kenya's coastal counties — connecting local restaurants and vendors with customers through a fast, mobile-first experience.
 
 ## 🌱 Currently Learning
-I'm diving deep into Ethereum smart contract deployment and exploring various DeFi protocols, including Aave and Uniswap. I'm also working with tools like **Truffle**, **Ganache**, and **Infura** for dApp development.
+- Advanced React patterns and Python FastAPI microservices
+- Real-time systems with Socket.IO
+- AI integration for health and marketplace applications
 
-## 💼 Projects & Collaborations
-- **Open to Collaborations**: If you're working on blockchain or DeFi projects and looking for a developer, let's connect!
-- **Skills**: Solidity, Truffle, Ganache, JavaScript, DeFi protocols, MetaMask integration
+## 🛠️ Tech Stack
+`React 19` `Node.js` `Express` `SQLite` `Python` `FastAPI` `Socket.IO` `M-Pesa API` `Stripe` `Docker` `Nginx`
+
+## 💼 Open to Collaborations
+If you're building platforms for underserved markets, African fintech, health tech, or marketplace solutions — let's connect!
 
 ## 📫 How to Reach Me
-- **Email**: solutionlogitech@gmail.com
+- 📧 Email: [solutionlogitech@gmail.com](mailto:solutionlogitech@gmail.com)
+- 🌍 Based in: Nairobi, Kenya
 
 ## 😄 Pronouns
-He/Him (or update with your preferred pronouns)
+He/Him
 
 ## ⚡ Fun Fact
-I love to learn about cutting-edge financial models and their implementation in the decentralized world. Also, I'm a big fan of sci-fi!
+I believe technology should be radically inclusive. Whether you're a top-tier developer or a first-time gig worker, great platforms should serve everyone equally.
 
----
-
-Thanks for stopping by! 😊 Feel free to check out my repositories and connect if you share similar interests or have exciting projects in mind!
+Thanks for stopping by! 😊 Feel free to explore my repositories and connect if you'd like to collaborate.
