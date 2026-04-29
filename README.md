@@ -36,7 +36,7 @@ A food delivery marketplace targeting Kenya's coastal counties — connecting lo
 If you're building platforms for underserved markets, African fintech, health tech, ERP, or marketplace solutions — let's connect!
 
 ## 📫 How to Reach Me
-- 📧 Email: [solutionlogitech@gmail.com](mailto:solutionlogitech@gmail.com)
+- 📧 Email: [derrick@nyamainexus.com](mailto:derrick@nyamainexus.com)
 - 🌍 Based in: Nairobi, Kenya
 - 🌐 Company: [nyamainexus.com](https://nyamainexus.com)
 
